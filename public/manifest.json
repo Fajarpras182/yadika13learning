@@ -1,0 +1,16 @@
+{
+  "name": "CBT E-Learning SMK Yadika 13",
+  "short_name": "CBT Yadika",
+  "description": "Sistem Computer Based Test (Ujian Online) SMK Yadika 13",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#0f3460",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
